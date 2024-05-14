@@ -1,0 +1,5 @@
+IG_UI_EN = {
+
+   IGUI_VehiclePartFR_VehicleArmory = "武器库",
+   IGUI_VehiclePartFR_VehicleArmory2 = "武器库",
+}
